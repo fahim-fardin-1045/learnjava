@@ -2,6 +2,7 @@ package learn2;
 
 public class Test2 {
     public static void main(String[] args) {
-        System.out.println("hello");
+       practice2 p = new practice2();
+        p.display();
     }
 }
