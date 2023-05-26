@@ -1,6 +1,10 @@
 package learn;
 
 public class practice {
-    int c=89;
-    int d = 78;
+    int c;
+    String d;
+practice(){
+}
+
+
 }
